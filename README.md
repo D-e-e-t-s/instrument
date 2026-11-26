@@ -22,4 +22,14 @@ Heres all the 3d components I added:
 
 Then I started looking for my materials!
 
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+| --- | :---: | --- | ---: | ---: | --- |
+| SK6812MINI-E | 1 | AliExpress | $5.19 | $5.19 | [AliExpress](https://aliexpress.us) |
+| Waveshare ESP32-S3-Zero | 1 | AliExpress | $3.41 | $3.41 | [AliExpress](https://aliexpress.us) |
+| PCB | 1 | JLCPCB | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
+| PTA1543 | 2 | DigiKey | $1.58 | $3.16 | [DigiKey](https://digikey.com) |
+| Kailh Choc V2 Silent Low-Profile Switches | 3 | Keebio | $0.70 | $2.10 | [Keebio](https://keeb.io) |
+| **Estimated total shipping** | | | | **$7.09** | |
+| **Total** | | | | **$22.95** | |
+
 
