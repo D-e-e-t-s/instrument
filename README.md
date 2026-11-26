@@ -13,7 +13,7 @@ I made this project because basically for all of my projects on half-life I like
 
 
 I started working on the schematic and used waveshare for my microcontroller and added the remaining parts I included sliders, switches, and LED here is how the schematic looks like after wiring everything: 
-<img width="573" height="442" alt="Screenshot 2026-10-23 175801" src="https://github.com/user-attachments/assets/fc01c4b1-b7fc-48d6-aceb-e3ca8e938a1f" />
+<img width="573" height="442" alt="schematic" src="https://github.com/user-attachments/assets/fc01c4b1-b7fc-48d6-aceb-e3ca8e938a1f" />
 Then I worked on my PCB, rearranged the components, and created my edge cuts layer around it. I decided to make my capactive keys like 4 in the top and 3 below it and pretty big too, and then I routed it which took me two hours because it was so difficult heres how it turned out:
 <img width="506" height="472" alt="Screenshot 2026-10-23 175928" src="https://github.com/user-attachments/assets/589c5d15-160e-498f-8305-17168e7026ec" />
 <img width="575" height="525" alt="Screenshot 2026-10-23 214420" src="https://github.com/user-attachments/assets/20e87007-53ec-41b0-8228-36af83ddfe20" />
