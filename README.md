@@ -1,4 +1,11 @@
 # MIDI keyboard
+<img width="633" height="591" alt="Screenshot 2026-10-24 131917" src="https://github.com/user-attachments/assets/b1cd8ee4-468e-4167-9b2c-61ea22f1eb00" />
+
+This keyboard plays the main notes to the theme song of Howl's moving castle by using 7 capactive keys. It also includes 3 buttons, 2 sliders, and a waveshare. On the front is a couple details from the movie like calcifer, the dog, and the name of the movie. Then on the back there is howl and sophie. 
+
+#The process
+
+
 I started working on the schematic and used waveshare for my microcontroller and added the remaining parts I included sliders, switches, and LED here is how the schematic looks like after wiring everything: 
 <img width="573" height="442" alt="Screenshot 2026-10-23 175801" src="https://github.com/user-attachments/assets/fc01c4b1-b7fc-48d6-aceb-e3ca8e938a1f" />
 Then I worked on my PCB, rearranged the components, and created my edge cuts layer around it. I decided to make my capactive keys like 4 in the top and 3 below it and pretty big too, and then I routed it which took me two hours because it was so difficult heres how it turned out:
