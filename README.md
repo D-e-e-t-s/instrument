@@ -1,9 +1,15 @@
 # MIDI keyboard
 <img width="633" height="591" alt="Screenshot 2026-10-24 131917" src="https://github.com/user-attachments/assets/b1cd8ee4-468e-4167-9b2c-61ea22f1eb00" />
 
-This keyboard plays the main notes to the theme song of Howl's moving castle by using 7 capactive keys. It also includes 3 buttons, 2 sliders, and a waveshare. On the front is a couple details from the movie like calcifer, the dog, and the name of the movie. Then on the back there is howl and sophie. 
+This keyboard plays the main notes to the theme song of Howl's Moving Castle using 7 capactive keys. It also includes 3 buttons, 2 sliders, and a waveshare. On the front is a couple details from the movie like calcifer, the dog, and the name of the movie. Then on the back there is howl and sophie. 
 
-#The process
+It is a PCB with capacitive keys that play notes to a particular song in short. 
+
+# The Why
+
+I made this project because basically for all of my projects on half-life I like putting things about me into these projects and one of my favorite movies of all time has to be Howl's moving castle and I absolutely love the theme song with a passion and what better way to show my love for the movie than create a keyboard that can play the theme song? 
+
+# The process 
 
 
 I started working on the schematic and used waveshare for my microcontroller and added the remaining parts I included sliders, switches, and LED here is how the schematic looks like after wiring everything: 
